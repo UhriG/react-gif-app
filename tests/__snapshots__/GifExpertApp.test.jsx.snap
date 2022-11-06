@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifExpertApp /> debe de mostrar una lista de categorías 1`] = `
+<div>
+  <h1>
+    GifExpertApp
+  </h1>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Search Gif"
+      type="text"
+      value=""
+    />
+  </form>
+</div>
+`;
+
+exports[`Pruebas en <GifExpertApp /> debe de mostrarse correctamente 1`] = `
+<div>
+  <h1>
+    GifExpertApp
+  </h1>
+  <form
+    aria-label="form"
+  >
+    <input
+      placeholder="Search Gif"
+      type="text"
+      value=""
+    />
+  </form>
+</div>
+`;
